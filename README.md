@@ -18,7 +18,6 @@ I'm a Backend Developer and Data Science enthusiast, focused on building reliabl
 
 I enjoy solving complex problems through code, data modeling, analytics, and well-structured architectures.
 My journey is grounded in continuous learning, discipline, and curiosity :) 
-I like clean, maintainable code.
 
 - 🎯 Constantly evolving technically and professionally.
 - 🏡 I love being with my family and friends, , they are everything to me.
