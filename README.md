@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Backend Developer and Data Science enthusiast, focused on building reliable systems and extracting value from data.
+I'm a Developer and Data Science enthusiast, focused on building reliable systems and extracting value from data.
 
 I enjoy solving complex problems through code, data modeling, analytics, and well-structured architectures.
 My journey is grounded in continuous learning, discipline, and curiosity :) 
