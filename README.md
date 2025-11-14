@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! 
 
 <!--
 **mariacfclaudino/mariacfclaudino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Backend Developer and Data Science enthusiast, focused on building reliable systems and extracting value from data.
+
+I enjoy solving complex problems through code, data modeling, analytics, and well-structured architectures.
+My journey is grounded in continuous learning, discipline, and curiosity :) 
+I like clean, maintainable code.
+
+- 🎯 Constantly evolving technically and professionally.
+- 🏡 I love being with my family and friends, , they are everything to me.
+- ✈️ I enjoy traveling and exploring different cultures.
+- 👨‍🎓 My academic life here!
