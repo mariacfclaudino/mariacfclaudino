@@ -22,4 +22,4 @@ My journey is grounded in continuous learning, discipline, and curiosity :)
 - 🎯 Constantly evolving technically and professionally.
 - 🏡 I love being with my family and friends, , they are everything to me.
 - ✈️ I enjoy traveling and exploring different cultures.
-- 👨‍🎓 My academic life here!
+- 👨‍🎓 My academic life <a href="https://github.com/mariacfclaudino/list-of-courses-certifications">here!</a>
